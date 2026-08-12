@@ -14,19 +14,6 @@ The project includes SQL-based data analysis and an interactive Power BI dashboa
 * **Excel/CSV** – Data source
 * **GitHub** – Project documentation and version control
 
-## 📂 Project Structure
-Customer-Churn-Analysis/
-│
-├── Dashboard/
-│   └── Customer_Churn_Dashboard.png
-│
-├── PowerBI/
-│   └── Customer_Churn_Analysis.pbix
-│
-├── SQL/
-│   └── churn_analysis_queries.sql
-│
-└── README.md
 ## 📊 Dashboard Preview
 
 ![Telecom Customer Churn Dashboard](Dashboard/Customer_Churn_Dashboard.png)
