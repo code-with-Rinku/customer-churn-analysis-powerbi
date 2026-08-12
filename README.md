@@ -16,7 +16,7 @@ The project includes SQL-based data analysis and an interactive Power BI dashboa
 
 ## 📊 Dashboard Preview
 
-![Telecom Customer Churn Dashboard](Dashboard/Customer_Churn_Dashboard.png)
+![Telecom Customer Churn Dashboard](Dashboard/customer_churn_analysis.png)
 
 ## 📈 Key KPIs
 
